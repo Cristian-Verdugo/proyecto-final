@@ -1,0 +1,38 @@
+[
+    {
+        "id": "p1",
+        "title": "Departamento en el Centro",
+        "type": "Departamento",
+        "description": "Hermoso departamento a pasos del metro. Ideal para profesionales.",
+        "price": 450000,
+        "location": "Santiago Centro, RM",
+        "rooms": 2,
+        "bathrooms": 1,
+        "pets": false,
+        "image": "https://fotos.perfil.com/2018/09/21/trim/950/534/nueva-york-09212018-366965.jpg"
+    },
+    {
+        "id": "p2",
+        "title": "Casa con Patio Grande",
+        "type": "Casa",
+        "description": "Amplia casa familiar con jardín y quincho. Barrio tranquilo.",
+        "price": 850000,
+        "location": "La Florida, RM",
+        "rooms": 4,
+        "bathrooms": 3,
+        "pets": true,
+        "image": "https://www.construyehogar.com/wp-content/uploads/2017/01/Dise%C3%B1o-casa-moderna-dos-pisos-1.jpg"
+    },
+    {
+        "id": "p3",
+        "title": "Loft Industrial",
+        "type": "Departamento",
+        "description": "Estilo moderno y espacios abiertos. Excelente conectividad.",
+        "price": 600000,
+        "location": "Providencia, RM",
+        "rooms": 1,
+        "bathrooms": 1,
+        "pets": true,
+        "image": "https://cdn.homedsgn.com/wp-content/uploads/2011/04/Loft-in-Barcelona-02.jpg"
+    }
+]
